@@ -25,7 +25,7 @@
 |:-------------------------------|
 | 🦖 **git commit -m "segundo commit"**|
 | 🦖 **git log**                     |
-|-----------------------------------------|
+
 
 ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/imagenes/4.png "paso 4")  
 
@@ -40,6 +40,6 @@
 |:--------------------------------|
 | 🦖 **git branch -m main**       |
 | 🦖 **git push -u origin main**  | 
-|----------------------------------|
+
 
 ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/imagenes/6.png "paso 6") 
