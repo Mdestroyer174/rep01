@@ -24,8 +24,8 @@
 | 🦖 **git add readme.md**         |
 |:-------------------------------|
 | 🦖 **git commit -m "segundo commit"**|
-|:-------------------------------|
 | 🦖 **git log**                     |
+|-----------------------------------------|
 
 ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/imagenes/4.png "paso 4")  
 
@@ -37,9 +37,9 @@
 
 **paso 6 :** ahora toca asociar el repositorio local con el remoto en github y subir lo que tenemos en espera al repositorio remoto ***en mi caso es con mi direccion***  
 | 🦖 **git remote add origin https://github.com/Mdestroyer174/rep01.git**         |
-|:-------------------------------|
-| 🦖 **git branch -m main**     |
-|:-------------------------------|
-| 🦖 **git push -u origin main**    | 
+|:--------------------------------|
+| 🦖 **git branch -m main**       |
+| 🦖 **git push -u origin main**  | 
+|----------------------------------|
 
 ![Este contenido se mostrará cuando la imagen no se pueda cargar, como texto alternativo](/imagenes/6.png "paso 6") 
